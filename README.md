@@ -10,7 +10,7 @@
 
 ساخته شده توسط جوانان ایرانی بدون وابستگی به هیچ جا! فقط برای آزادی ایران.
 
-[باز کردن برنامه](https://irjusticekid.github.io/Kaveh)
+[باز کردن برنامه](https://irjusticekid.github.io/kaveh)
 
 ----
 
