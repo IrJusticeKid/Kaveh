@@ -1,4 +1,4 @@
-const CACHE_NAME = "version-004";
+const CACHE_NAME = "version-005";
 const urlsToCache = ['kaveh.html'];
 
 // Install the service worker and open the cache and add files mentioned in array to cache
